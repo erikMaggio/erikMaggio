@@ -1,4 +1,10 @@
 
+Soy Erik Maggio, un desarrollador Android entusiasta con 4 años de experiencia. A lo largo de mi carrera, me he enfocado en el desarrollo en Kotlin, la implementación de Clean Architecture, la gestión de RecyclerView, la creación de interfaces en XML y el consumo de API REST. Estas experiencias me han permitido desarrollar habilidades sólidas y una comprensión profunda de la plataforma Android.
+
+Me encanta trabajar en equipo y he tenido la oportunidad de hacerlo en entornos ágiles utilizando la metodología Scrum.
+
+Estoy comprometido con el aprendizaje continuo y la mejora constante. Estoy buscando una oportunidad para unirme a una empresa que valore y apoye mi crecimiento. Creo poder aportar mucho con mi experiencia como desarrollador.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Eri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erik_maggio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erik-maggio-3231b0217/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@agustin) 
 
